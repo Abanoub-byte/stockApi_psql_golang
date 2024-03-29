@@ -4,5 +4,6 @@ import "fmt"
 
 func main(){
 
-	fmt.Println(" hello sir")
+	fmt.Println("Welcome to quiz.Bob !!")
+	
 }
